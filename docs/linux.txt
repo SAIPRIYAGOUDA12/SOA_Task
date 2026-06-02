@@ -1,0 +1,7 @@
+1. What is Linux
+Linux is an open-source operating system.
+
+2. Three commands learned
+mkdir
+cd
+ls
