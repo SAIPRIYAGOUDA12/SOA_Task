@@ -5,3 +5,4 @@ My Top 5 Learnings
 3. Git repository initialization
 4. Git branching and merging
 5. GitHub pull request workflow
+6. Learned how to create Pull Request.
